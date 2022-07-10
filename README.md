@@ -26,6 +26,7 @@ const b = 2;
 ```
 
 ### Transform With GoGoCode
+### next2()
 
 ```javascript
 const $ = require('gogocode');
