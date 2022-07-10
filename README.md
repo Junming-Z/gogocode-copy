@@ -19,6 +19,8 @@ Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Auto
 Let's show you how to select and modify code with our API, hahaha
 
 ### In
+### OUT
+### 代码转换从未如此简单
 
 ```javascript
 const a = 1;
