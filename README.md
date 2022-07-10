@@ -16,11 +16,7 @@ Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Auto
 
 ## Intro
 
-官网123：Let's show you how to select and modify code with our API, hihehe
-
-### In
-### OUT
-### 代码转换从未如此简单
+Let's show you how to select and modify code with our API
 
 ```javascript
 const a = 1;
